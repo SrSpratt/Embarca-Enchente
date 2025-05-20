@@ -29,4 +29,5 @@ Ao executar o programa, o sistema se iniciará:
     * Ao mexer no joystick na horizontal, a porcentagem de nível de água aumentará à medida que o movimento se distanciar do centro
     * Ao mexer no joystick na vertical, a porcentagem de chuva aumentará à medida que o movimento se distanciar do centro
 * Ao chegar a cerca de 45%~50% em qualquer eixo, o quadrado da matriz de LEDs ficará amarelo, e o toque do buzzer ficará mais rápido, irá para 200ms
-* Ao chegar a 70% no eixo vertical, ou 80% no eixo horizontal 
+* Ao chegar a cerca de 70% no eixo horizontal, ou 80% no eixo horizontal, o LED vermelho se acenderá, o display mostrará o aviso de perigo, e a matriz mostrará uma exclamação vermelha
+* No nível de perigo, o buzzer aumentará a intensidade sonorá e também a frequência de toque, tocando a intervalos de 100ms
